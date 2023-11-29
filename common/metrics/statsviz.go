@@ -1,8 +1,9 @@
 package metrics
 
 import (
-	"github.com/arl/statsviz"
 	"net/http"
+
+	"github.com/arl/statsviz"
 )
 
 // Serve 可视化实时监控 /debug/statsviz
